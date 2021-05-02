@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(37, 189, 37);
+  color: white;
+}
+
+h1 {
+  font-family: sans-serif, bold;
+  text-align: center;
+  position: relative;
+  top: 120px;
+
+}
+
